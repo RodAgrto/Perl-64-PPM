@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTPKG NAME="ExtUtils-XSpp" VERSION="0,18,0,0">
+  <TITLE>ExtUtils-XSpp</TITLE>
+  <ABSTRACT>XS for C++</ABSTRACT>
+  <AUTHOR>Mattia Barbon &lt;mbarbon@cpan.org&gt;</AUTHOR>
+  <IMPLEMENTATION>
+    <OS NAME="MSWin32" />
+    <ARCHITECTURE NAME="MSWin32-x64-multi-thread-5.24" />
+    <CODEBASE HREF="ExtUtils-XSpp.tar.gz" />
+    <PROVIDE NAME="ExtUtils::XSpp::Lexer" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Argument" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::File" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Preprocessor" />
+    <PROVIDE NAME="ExtUtils::XSpp::Exception::code" />
+    <PROVIDE NAME="ExtUtils::XSpp::Exception::unknown" />
+    <PROVIDE NAME="ExtUtils::XSpp::Plugin::feature::default_xs_typemap" />
+    <PROVIDE NAME="ExtUtils::XSpp::Typemap::simple" />
+    <PROVIDE NAME="ExtUtils::XSpp::Typemap::wrapper" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Enum" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Package" />
+    <PROVIDE NAME="ExtUtils::XSpp::Exception" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::EnumValue" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Destructor" />
+    <PROVIDE NAME="ExtUtils::XSpp::Typemap::reference" />
+    <PROVIDE NAME="ExtUtils::XSpp::Exception::perlcode" />
+    <PROVIDE NAME="ExtUtils::XSpp::Exception::simple" />
+    <PROVIDE NAME="ExtUtils::XSpp::Grammar::YappDriver" VERSION="1.05" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Comment" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Type" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Module" />
+    <PROVIDE NAME="ExtUtils::XSpp::Typemap::parsed" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Method" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Function" />
+    <PROVIDE NAME="ExtUtils::XSpp::Exception::stdmessage" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::PercAny" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Access" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Constructor" />
+    <PROVIDE NAME="ExtUtils::XSpp::Cmd" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Member" />
+    <PROVIDE NAME="ExtUtils::XSpp::Parser" />
+    <PROVIDE NAME="ExtUtils::XSpp" VERSION="0.18" />
+    <PROVIDE NAME="ExtUtils::XSpp::Driver" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Class" />
+    <PROVIDE NAME="ExtUtils::XSpp::Exception::object" />
+    <PROVIDE NAME="ExtUtils::XSpp::Typemap" />
+    <PROVIDE NAME="ExtUtils::XSpp::Grammar" />
+    <PROVIDE NAME="ExtUtils::XSpp::Node::Raw" />
+  </IMPLEMENTATION>
+</SOFTPKG>
