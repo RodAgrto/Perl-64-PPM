@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOFTPKG NAME="Win32-GUI" VERSION="1,14,0,0">
+  <TITLE>Win32-GUI</TITLE>
+  <ABSTRACT>Perl-Win32 Graphical User Interface Extension</ABSTRACT>
+  <AUTHOR>Aldo Calpini &lt;dada@perl.it&gt;</AUTHOR>
+  <IMPLEMENTATION>
+    <OS NAME="MSWin32" />
+    <ARCHITECTURE NAME="MSWin32-x64-multi-thread-5.30" />
+    <CODEBASE HREF="Win32-GUI.tar.gz" />
+    <PROVIDE NAME="Win32::GUI::AxWindow" VERSION="0.09" />
+    <PROVIDE NAME="Win32::GUI::Bitmap" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::DIBitmap" VERSION="0.17" />
+    <PROVIDE NAME="Win32::GUI::RadioButton" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Trackbar" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Timer" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Label" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Textfield" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Constants::Tags" />
+    <PROVIDE NAME="Win32::GUI::RichEdit" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Menu" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Graphic" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::GridLayout" VERSION="0.06" />
+    <PROVIDE NAME="Win32::GUI::WindowProps" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Header" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Checkbox" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Listbox" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::AcceleratorTable" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Animation" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Window" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Groupbox" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::TabStrip" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::DateTime" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::UpDown" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::ListView" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::MDIFrame" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::StatusBar" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Splitter" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Slider" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Brush" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::DialogBox" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::DropFiles" VERSION="0.02" />
+    <PROVIDE NAME="Win32::GUI::ImageList" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::ProgressBar" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::DC" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::MDIClient" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Font" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Class" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Scintilla::Perl" VERSION="0.02" />
+    <PROVIDE NAME="Win32::GUI::NotifyIcon" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Icon" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Rebar" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::ListView::Item" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::MonthCal" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Cursor" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Listbox::Item" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Grid" VERSION="0.08" />
+    <PROVIDE NAME="Win32::GUI::ComboboxEx" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Button" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::DIBitmap::Ext" VERSION="0.17" />
+    <PROVIDE NAME="Win32::GUI::MenuItem" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::BitmapInline" VERSION="0.03" />
+    <PROVIDE NAME="Win32::GUI::MDIChild" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Tooltip" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Constants" VERSION="0.04" />
+    <PROVIDE NAME="Win32::GUI::Toolbar" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::MDIBitmap" VERSION="0.17" />
+    <PROVIDE NAME="Win32::GUI::ListView::SubItem" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::MenuButton" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Combobox" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::Pen" VERSION="1.14" />
+    <PROVIDE NAME="Win32::GUI::TreeView" VERSION="1.14" />
+  </IMPLEMENTATION>
+</SOFTPKG>
